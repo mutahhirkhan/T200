@@ -2,6 +2,9 @@
 
 > Please note that the information provided in this list is unofficial and has been curated based on personal research. It is not intended to harm, discredit, or affect the credibility of any community, school, or race in any manner, whether actively or passively. This list is presented purely for informational purposes and should be taken as such. Users are encouraged to verify the information from official sources before making any decisions based on it.
 
+# ➜ Contribution 
+Interested in contributing? Check out our [contribution guidelines](CONTRIBUTING.md) to get started!
+
 # 🏆 Top 200 Universities Worldwide with Overall Scores and GRE Requirements
 
 | Rank | University                                               | Location       | Overall Score | GRE  |
